@@ -1,3 +1,3 @@
-# Beginner Projects
-New repository
-I am an aspiring entrepeneur and computer scientist.
+# Hello World
+
+I am an aspiring entrepeneur and software developer
